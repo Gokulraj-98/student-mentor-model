@@ -8,6 +8,7 @@ input json data format:
     "batch":"B53 WE"
 }
 
+
 2.To add Mentor use this API
 Post - https://student-mentor-model.onrender.com/mentors/add-mentor
 input:
